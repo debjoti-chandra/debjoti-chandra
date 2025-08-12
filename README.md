@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Debjoti Chandra</h1>
-<h3 align="left">Expert in Distributed Systems, Microservices, and Cloud-Native Architecture with a strong focus on DevOps, SRE, and DBRE. Specialized in Data Engineering on AWS (S3, Redshift, Athena, Kinesis, EMR). Proficient in GoLang, Python, Java, Node.js, Kafka, GraphQL, and Elasticsearch. Skilled in Kubernetes (EKS), Terraform, and CI/CD automation. Monitoring & Observability expertise in AWS CloudWatch, AWS X-Ray, Prometheus, Grafana, New Relic, DataDog, and Gremlin (Reliability Testing & Chaos Engineering). Actively exploring Generative AI, Large Language Models (LLMs), AI Agents, and Agentic Architecture for building intelligent, autonomous, and context-aware systems.</h3>
+<h3 align="left">
+🚀 17+ years in Software Engineering | 5+ years in Leadership  
+🏗️ Architected & Delivered 50+ Enterprise-Scale Distributed Systems & Microservices  
+☁️ AWS Data Engineering Expertise: S3, Redshift, Athena, Kinesis, EMR – Processing 10B+ Events/Month  
+💻 Polyglot: GoLang | Python | Java | Node.js | Kafka | GraphQL | Elasticsearch  
+⚙️ Kubernetes (EKS) | Terraform | CI/CD Automation – Reduced Deployment Time by 70%  
+📊 Observability Guru: AWS CloudWatch, X-Ray, Prometheus, Grafana, New Relic, DataDog, Gremlin – 99.99% Uptime Achieved  
+🧠 Innovating with Generative AI, LLMs, AI Agents & Agentic Architectures for Intelligent, Context-Aware Systems
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjoti-chandra&label=Profile%20views&color=0e75b6&style=flat" alt="debjoti-chandra" /> </p>
 
